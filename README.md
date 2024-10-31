@@ -39,7 +39,7 @@ Esta é uma API desenvolvida em ASP.NET Core que permite buscar receitas atravé
 ## Como Executar o Projeto
 1. Clone este repositório:
 ```terminal
- git clone
+ git clone https://github.com/ViniciusAlamini/ApiReceitas.git
 ```
 2.Execute o projeto:
 ```terminal

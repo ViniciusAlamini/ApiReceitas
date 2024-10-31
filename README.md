@@ -32,8 +32,11 @@ Esta é uma API desenvolvida em ASP.NET Core que permite buscar receitas atravé
 
 ## Tecnologias Usadas
 -ASP.NET Core
+
 -C#
+
 -HttpClient
+
 -JSON
 
 ## Como Executar o Projeto
